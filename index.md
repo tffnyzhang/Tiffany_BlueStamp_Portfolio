@@ -58,8 +58,6 @@ For your first milestone, describe what your project is and how you plan to buil
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 For my starter project I put together a small lightbulb circuit that includes different colors. The main components include the circuitboard, three switches, each for a color, and the lightbulb. The process for putting this project together was simply me sticking the lightbulb and switches where they go on the circuitboard and then soldering them on the circuitboard. 
 
 # Schematics 
