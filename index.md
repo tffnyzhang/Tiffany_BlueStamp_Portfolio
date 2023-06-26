@@ -63,6 +63,7 @@ The components of this project include:
 - a circuitboard, which is where all the other components connect and is pretty much the power system for the lightbulb
 - the lightbulb
 - three switches, each switch controls a color
+
 Once the lightbulb is plugged in, each switch can be turned on to make the lightbulb different color. The circuitboard has circuits that connect everything to the lightbulb, and is the reason why the lightbulb works in the first place. 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
