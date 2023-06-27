@@ -65,7 +65,7 @@ The components of this project include:
 - three slide potentiometers
 - solder & soldering iron
 
-The RGB LED consists of internal LEDs that produce red, green, and blue. The switches, which are potentiometers, are each able to control the color and intensity of the LED. The output voltage of the potentiometer is read, and based on that, adjusts the intensity of the LED. 
+The electrical current runs along a resistor, and the position of the potentiometer controls how far along the resistor the current runs, and thus how much resistance there is on the current and how intense the output color is. The more resistance on the current, the less intense the output color and vice versa. 
 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
