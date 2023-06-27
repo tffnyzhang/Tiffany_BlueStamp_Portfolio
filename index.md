@@ -58,13 +58,16 @@ For your first milestone, describe what your project is and how you plan to buil
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-For my starter project I put together a small lightbulb that can light up different colors. 
+For my starter project I put together a small light bulb. The light bulb is able to light up red, green, or blue, and each switch controls a different color. 
 The components of this project include: 
-- a circuitboard, which is where all the other components connect and is pretty much the power system for the lightbulb
-- the lightbulb
-- three switches, each switch controls a color
+- a circuitboard
+- the light bulb
+- three switches
+- solder & soldering iron
+  
+The bulb is able to produce different colors because it contains three smaller light bulbs, which can produce red, blue, and green, with each switch controlling one of these smaller light bulbs. 
 
-Once the lightbulb is plugged in, each switch can be turned on to make the lightbulb different color. This works because everything is connected to a circuit.
+
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
 
