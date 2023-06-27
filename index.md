@@ -58,15 +58,14 @@ For your first milestone, describe what your project is and how you plan to buil
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-For my starter project I put together a small light bulb. The light bulb is able to light up red, green, or blue, and each switch controls a different color. 
+For my starter project I put together an RBG LED. The RBG LED is able to light up red, green, or blue, and each switch controls a different color. 
 The components of this project include: 
-- a circuitboard
-- the light bulb
-- three switches
+- a circuitboard (connects LED to power source and switches)
+- RBG LED
+- three slide potentiometers
 - solder & soldering iron
 
-The bulb itself is able to produce different colors because it contains three smaller light bulbs, which can produce red, blue, and green, with each switch controlling one of these smaller light bulbs. 
-
+The RGB LED consists of internal LEDs that produce red, green, and blue. The switches, which are potentiometers, are each able to control the color and intensity of the LED. The output voltage of the potentiometer is read, and based on that, adjusts the intensity of the LED. 
 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
