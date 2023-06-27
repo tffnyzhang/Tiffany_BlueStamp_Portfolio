@@ -60,12 +60,12 @@ For your first milestone, describe what your project is and how you plan to buil
 
 For my starter project I put together an RBG LED. The RBG LED is able to light up red, green, or blue, and each switch controls a different color. 
 The components of this project include: 
-- a circuitboard (connects LED to power source and switches)
-- RBG LED
-- three slide potentiometers
+- a circuitboard - connects LED to power source and switches
+- RBG LED - a color changing LED that consists of internal LEDs that produce red, green, and blue
+- three slide potentiometers - controls the intensity of the output color based on the position of the current on the resistor
 - solder & soldering iron
 
-The electrical current runs along a resistor, and the position of the potentiometer controls how far along the resistor the current runs, and thus how much resistance there is on the current and how intense the output color is. The more resistance on the current, the less intense the output color and vice versa. 
+The electrical current runs along a resistor, and the position of the potentiometer controls how far along the resistor the current runs, and thus how much resistance there is on the current and how intense the output color is. The more resistance on the current, the less intense the output color and vice versa. Each potentiometer is connected to a single internal LED, changing the intensity of that specific color. If two of the switches are turned on together, the output color will be a color that is a mix of the two colors those switches control. 
 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
