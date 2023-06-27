@@ -64,8 +64,8 @@ The components of this project include:
 - the light bulb
 - three switches
 - solder & soldering iron
-  
-The bulb is able to produce different colors because it contains three smaller light bulbs, which can produce red, blue, and green, with each switch controlling one of these smaller light bulbs. 
+
+The bulb itself is able to produce different colors because it contains three smaller light bulbs, which can produce red, blue, and green, with each switch controlling one of these smaller light bulbs. 
 
 
 # Schematics 
