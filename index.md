@@ -47,7 +47,18 @@ For your second milestone, explain what you've worked on since your previous mil
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For my first milestone, I put together a working prototype of my intensive project. It uses an ultrasonic sensor to determine how far an object is away. If the object is 50 centimeters or closer, the LED will start flashing, and the buzzer will start beeping. The closer the object is to the sensor in that range, the more the buzzer will beep and the more the LED will flash. I also added a switch which can toggle between the buzzer and a vibrating motor. The motor will do act the same as the buzzer, where it will vibrate if an object is 50 centimeters or closer to the ultrasonic sensor. 
+For my first milestone, I put together a working prototype of my intensive project. It uses an ultrasonic sensor to determine how far an object is away. If the object is 50 centimeters or closer, the LED will start flashing, and the buzzer will start beeping. The closer the object is to the sensor in that range, the more the buzzer will beep and the more the LED will flash. I also added a switch which can toggle between the buzzer and a vibrating motor. The motor will do act the same as the buzzer, where it will vibrate if an object is 50 centimeters or closer to the ultrasonic sensor.
+The components used here include:
+- a breadboard - a base to attach all the components to, and is connected on the bottom using metal, making it solderless
+- an LED - flashes when object is within range
+- a toggle switch - used to switch between the buzzer and vibrating motor
+- Arduino board - the CPU of this unit, runs the code that I give it and has pins that connects to the rest of the components
+- vibrating motor - vibrates when object is within range (can switch with buzzer by flipping the toggle switch)
+- buzzer - makes a beeping nose when object is within range (can switch with vibrating motor by flipping toggle switch)
+- ultrasonic sensor - senses the object and how far away it is
+- jumper wires - used to connect the circuit together
+
+
   
 # Starter Project
 
