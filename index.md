@@ -45,7 +45,7 @@ For your second milestone, explain what you've worked on since your previous mil
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yANam3uWhAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 For my first milestone, I put together a working prototype of my intensive project. It uses an ultrasonic sensor to determine how far an object is away. If the object is 50 centimeters or closer, the LED will start flashing, and the buzzer will start beeping. The closer the object is to the sensor in that range, the faster the buzzer will beep and the faster the LED will flash. I also added a switch which can toggle between the buzzer and a vibrating motor. The motor will act the same as the buzzer, where it will vibrate if an object is 50 centimeters or closer to the ultrasonic sensor and will vibrate faster the closer the object is.
 The components used here include:
