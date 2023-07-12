@@ -19,21 +19,21 @@ For your final milestone, explain the outcome of your project. Key details to in
 - What you've accomplished since your previous milestone
 - What your biggest challenges and triumphs were at BSE
 - A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
+- What you hope to learn in the future after everything you've learned at BSE -->
 
 
 
 # Second Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+<!--- **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.** -->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal
-- What has been surprising about the project so far
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone -->
+For my second milestone, I decided to add voice control to my project to toggle between the motor and the buzzer rather than using a switch. The reasoning for this was that voice control would be much more convenient for a blind person rather than flipping a switch. The actual second milestone, however, was simply getting the voice control to work. To make sure it worked, I made the Arduino blink the built-in LED when my command, the word "switch", was spoken. 
+The components used include:
+- an Arduino board (specifically the 33 BLE Sense, as that has a built-in microphone)
+
+The way I got the voice-control to work was by using a machine learning model. Machine learning works by giving the model a bunch of training data, and it learns based on that "experience". In my case, I recorded myself and some friends saying the command word, as well as getting some samples of background noise online. I then curated the data so that it sorted it into background noise and the command word. I then trained the curated data and tested it using Edge Impulse. A challenge I faced was that my original command, "Arduino, switch", was too long and would not be accepted, as the script I was using would only accept one second samples. I had already collected samples and did not want to do it all again, so I settled on cutting all of my samples to only being the word "switch". My next step, which is my third milestone, is to get the voice control to work with the buzzer and the motor. 
 
 # First Milestone
 
