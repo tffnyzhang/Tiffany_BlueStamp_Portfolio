@@ -13,7 +13,7 @@ This project is a device for blind people, which uses an ultrasonic sensor to se
 
 <!--- **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.** -->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B0V6-hfV44w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Summary:
 For my final milestone, I was able to get the voice control to toggle between the buzzer and the vibrating motor. This works with the ultrasonic sensor, so that when an object is within 20cm, the buzzer starts buzzing, and when the command word is spoken, it switches to the motor. 
