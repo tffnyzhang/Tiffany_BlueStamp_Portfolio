@@ -15,12 +15,13 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE -->
+For my final milestone, I was able to get the voice control to toggle between the buzzer and the vibrating motor. 
+The components for this include:
+- vibrating DC motor
+- piezo buzzer
+- Arduino Nano 33 BLE Sense, because it has a microphone built in
 
+The way this works is that I used machine learning to make my model recognize the command word, "switch", and then I used a flag, which is a variable, similar to a boolean, that is given a value, either 1 or 0, based on conditions met. I set the default flag to 0. I made it so that when the command word was recognized, the flag would switch to 1, and if it already 1 when my command word was spoken, it would switch back to 0. I also wrote a line of code that stated that if flag was equal to 0, the buzzer would buzz if an object was within a certain distance, and if flag was equal to 1, the motor would vibrate if an object was in said distance instead. I faced many challenges during this. For one, I had formatted my code wrong, meaning that my flag would not switch when my command word was spoken. I also ran into the problem of my buzzer and motor not getting enough power, as they operated on 5 volts while my Arduino was 3.3 volts. 
 
 
 # Second Milestone
