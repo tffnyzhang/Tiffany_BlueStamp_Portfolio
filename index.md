@@ -120,8 +120,8 @@ I did not know how to solder prior to this project, so I had to learn how to do 
 
 My next step is to start on my intensive project, which is the Third Eye For The Blind. 
 
-# Schematics 
-Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser.
+<!--- # Schematics 
+Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. -->
 
 # Code
 Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs.
@@ -400,9 +400,10 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Vibrating motor | Alerts the user of a close object using vibration | $17.99 | <a href="https://www.amazon.com/BestTong-8000RPM-12000RPM-Vibration-Vibrating-Coreless/dp/B07CVKHHJV/ref=sr_1_2_sspa?crid=27TAWWDS29U87&keywords=vibrating+motor&qid=1684442516&s=electronics&sprefix=vibrating+moto%2Celectronics%2C107&sr=1-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExVkdDR0Q2QTk0VUhMJmVuY3J5cHRlZElkPUEwNzY2NDMyMTRENlU5SFJHVzVTTSZlbmNyeXB0ZWRBZElkPUEwNjU0MDYwTDhYNjQ1UDhFWUMyJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ=="> Link </a>|
+| Arduino Nano | Microcontroller, processes code and powers everything| $17.40 | <a href="https://www.amazon.com/Arduino-Nano-Every-headers-Mounted/dp/B07WWK29XF/ref=sr_1_14?crid=3RU6JDFYIVO7A&keywords=arduino+nano&qid=1680888917&sprefix=arduino+nan%2Caps%2C178&sr=8-14"> Link </a> |
+| Buzzer | Alerts the user of a close object by buzzing | $8.99 | <a href="https://www.amazon.com/Xiaoyztan-Electronic-2-Terminal-Loudspeakers-Applicances/dp/B07GBTJP9F/ref=cm_cr_arp_d_product_top?ie=UTF8"> Link </a> |
+| Ultrasonic Sensor | Senses the object and how close it is | $10.99 | <a href="https://www.amazon.com/WMYCONGCONG-HC-SR04-Ultrasonic-Distance-Measuring/dp/B07JJHCVRG/ref=asc_df_B07JJHCVRG/?tag=hyprod-20&linkCode=df0&hvadid=312172614854&hvpos=&hvnetw=g&hvrand=14791508169259773733&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032183&hvtargid=pla-576056355103&psc=1"> Link </a> |
 
 # Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
