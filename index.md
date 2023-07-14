@@ -56,7 +56,9 @@ A challenge I faced was that my original command, "Arduino, switch", was too lon
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yANam3uWhAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+Summary:
 For my first milestone, I put together a working prototype of my intensive project. It uses an ultrasonic sensor to determine how far an object is away. If the object is 50 centimeters or closer, the LED will start flashing, and the buzzer will start beeping. The closer the object is to the sensor in that range, the faster the buzzer will beep and the faster the LED will flash. I also added a switch which can toggle between the buzzer and a vibrating motor. The motor will act the same as the buzzer, where it will vibrate if an object is 50 centimeters or closer to the ultrasonic sensor and will vibrate faster the closer the object is.
+
 The components used here include:
 - a breadboard - a base to attach all the components to, and is connected on the bottom using metal, making it solderless
 - an LED - flashes when object is within range
@@ -67,13 +69,17 @@ The components used here include:
 - ultrasonic sensor - senses the object and how far away it is
 - jumper wires - used to connect the circuit together
 
-The ultrasonic sensor works by emitting high-frequency sound waves using the trig pin. When the sound hits an object, it bounces back and is received by the echo pin. By seeing how long it takes for sound to bounce back, a certain distance is given to the object. The code uses an “if” conditional statement to state that if an object is within 50 centimeters of the sensor, the LED will start flashing and the buzzer will start beeping. I ran into some challenges when building the prototype. I ran into some challenges when building the prototype. For one, I had initially wired it incorrectly, resulting in my project not working. I also did not know the meaning of the code given in the tutorial beforehand, meaning that if I ran into any issues with software, I wouldn't know what to do, so I spent a decent amount of time researching the functions that showed up in the code. My next step would be to add modifications to my prototype. 
+The ultrasonic sensor works by emitting high-frequency sound waves using the trig pin. When the sound hits an object, it bounces back and is received by the echo pin. By seeing how long it takes for sound to bounce back, a certain distance is given to the object. The code uses an “if” conditional statement to state that if an object is within 50 centimeters of the sensor, the LED will start flashing and the buzzer will start beeping. I ran into some challenges when building the prototype. 
+
+Challenges:
+I ran into some challenges when building the prototype. For one, I had initially wired it incorrectly, resulting in my project not working. I also did not know the meaning of the code given in the tutorial beforehand, meaning that if I ran into any issues with software, I wouldn't know what to do, so I spent a decent amount of time researching the functions that showed up in the code. My next step would be to add modifications to my prototype. 
 # Starter Project
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fm-Xq8GF3oU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+Summary:
+For my starter project I put together an RBG LED. The RBG LED is able to light up red, green, or blue, and each switch controls a different color.
 
-For my starter project I put together an RBG LED. The RBG LED is able to light up red, green, or blue, and each switch controls a different color. 
 The components of this project include: 
 - a circuitboard - connects LED to power source and switches
 - RBG LED - a color changing LED that consists of internal LEDs that produce red, green, and blue
@@ -81,6 +87,9 @@ The components of this project include:
 - solder & soldering iron
 
 The electrical current runs along a resistor, and the position of the potentiometer controls how far along the resistor the current runs, and thus how much resistance there is on the current and how intense the output color is. The more resistance on the current, the less intense the output color and vice versa. Each potentiometer is connected to a single internal LED, changing the intensity of that specific color. If two of the switches are turned on together, the output color will be a color that is a mix of the two colors those switches control. 
+
+Challenges:
+I did not know how to solder prior to this project, so I had to learn how to do that in order to build this.
 
 <!--- # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser.
