@@ -405,7 +405,7 @@ Don't forget to place the link of where to buy each component inside the quotati
 | Buzzer | Alerts the user of a close object by buzzing | $8.99 | <a href="https://www.amazon.com/Xiaoyztan-Electronic-2-Terminal-Loudspeakers-Applicances/dp/B07GBTJP9F/ref=cm_cr_arp_d_product_top?ie=UTF8"> Link </a> |
 | Ultrasonic Sensor | Senses the object and how close it is | $10.99 | <a href="https://www.amazon.com/WMYCONGCONG-HC-SR04-Ultrasonic-Distance-Measuring/dp/B07JJHCVRG/ref=asc_df_B07JJHCVRG/?tag=hyprod-20&linkCode=df0&hvadid=312172614854&hvpos=&hvnetw=g&hvrand=14791508169259773733&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032183&hvtargid=pla-576056355103&psc=1"> Link </a> |
 
-# Other Resources/Examples
+<!--- # Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
 - [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
 - [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
