@@ -7,7 +7,7 @@ This project is a device for blind people, which uses an ultrasonic sensor to se
 
 <!--- **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.** -->
 
-<img src="Tiffany-Headshot.png" height="250" width="200">
+<img src="Tiffany-Headshot.png" height="275" width="200">
 
   
 # Final Milestone
